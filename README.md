@@ -51,4 +51,4 @@ for the Lord is with me.
 	<tr>
 </table>
 
-*Note, not everyhing I learnt doing is listed above. Just my biggest accomplishments.*
+*Note, not everything I learnt is listed above. Just my biggest accomplishments.*
