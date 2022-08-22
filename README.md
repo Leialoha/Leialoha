@@ -21,7 +21,7 @@ for the Lord is with me.
 
 <div style="margin: 50px 0 0 0;"></div>
 
-# My Skills
+# My Skills / Resources:
 <img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,figma,github,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,react,regex,vscode&perline=4" />
 
 <table style="overflow:visible;display:inline-block;">
