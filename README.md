@@ -37,10 +37,10 @@ for the Lord is with me.
 		<td>Discord Bot</td>
 		<td>27 May 2018</td>
 	<tr>
-	<tr>
+	<!-- <tr>
 		<td>Electon App</td>
 		<td>18 August 2019</td>
-	<tr>
+	<tr> -->
 	<tr>
 		<td>Electon x React</td>
 		<td>10 August 2022</td>
