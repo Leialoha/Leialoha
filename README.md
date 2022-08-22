@@ -11,8 +11,8 @@
 </div>
 
 ```
-The world will never give you want you want, but that is okay.
-For the Lord is with me.
+The world will never give you want you want, but that is okay,
+for the Lord is with me.
 ```
 
 <div style="margin: 70px 0 0 0;"></div>
@@ -24,7 +24,7 @@ For the Lord is with me.
 # My Skills
 <img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,figma,github,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,react,regex,vscode&perline=4" />
 
-<table>
+<table style="overflow:visible;display:inline-block;">
 	<tr>
 		<th>First time making X</td>
 		<th>Date</td>
