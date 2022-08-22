@@ -1,4 +1,4 @@
-<img width="180" height="180" style="float:left;margin: 0 10px 0 0;border-radius:50%;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
+<img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;border-radius:50%;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
 
 # Hey there, I am Leialoha.
 
@@ -21,32 +21,32 @@ The world will never give you want you want, but that is okay. For the Lord is w
 <div style="margin: 50px 0 0 0;"></div>
 
 # My Skills
-<img width="180" height="180" style="float:left;margin: 0 10px 0 0;" alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,figma,github,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,react,regex,vscode&perline=4" />
+<img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,figma,github,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,react,regex,vscode&perline=4" />
 
 <table>
 	<tr>
-		<th>First time making X<td>
-		<th>Date<td>
+		<th>First time making X</td>
+		<th>Date</td>
 	<tr>
 	<tr>
-		<td>Java Program (MC. Mod)<td>
-		<td>13 April 2017<td>
+		<td>Java Program (MC. Mod)</td>
+		<td>13 April 2017</td>
 	<tr>
 	<tr>
-		<td>Discord Bot<td>
-		<td>27 May 2018<td>
+		<td>Discord Bot</td>
+		<td>27 May 2018</td>
 	<tr>
 	<tr>
-		<td>Electon App<td>
-		<td>18 August 2019<td>
+		<td>Electon App</td>
+		<td>18 August 2019</td>
 	<tr>
 	<tr>
-		<td>Electon x React<td>
-		<td>10 August 2022<td>
+		<td>Electon x React</td>
+		<td>10 August 2022</td>
 	<tr>
 	<tr>
-		<td>Nextjs x React<td>
-		<td>14 August 2022<td>
+		<td>Nextjs x React</td>
+		<td>14 August 2022</td>
 	<tr>
 </table>
 
