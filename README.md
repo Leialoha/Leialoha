@@ -11,7 +11,8 @@
 </div>
 
 ```
-The world will never give you want you want, but that is okay. For the Lord is with me.
+The world will never give you want you want, but that is okay.
+For the Lord is with me.
 ```
 
 <div style="margin: 70px 0 0 0;"></div>
