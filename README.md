@@ -1,4 +1,4 @@
-<img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;border-radius:50%;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
+<img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
 
 # Hey there, I am Leialoha.
 
@@ -11,20 +11,50 @@
 </div>
 
 ```
-The world will never give you want you want, but that is okay,
-for the Lord is with me.
+"The best way to predict your future is to create it."
+- Peter Drucker
 ```
-
-<div style="margin: 70px 0 0 0;"></div>
 
 ---
 
-<div style="margin: 50px 0 0 0;"></div>
+<details>
+	<summary>✨ My Skills:</summary>
+	<p align="center">
+		<img alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,mongodb,nextjs,nodejs,react,regex" />
+	</p>
+</details>
+<details>
+	<summary>🗞️ My Socials:</summary>
+	<p align="center">
+		<a href="https://discord.com/users/217024555724570624">
+			<img src="https://lanyard.cnrad.dev/api/217024555724570624">
+		</a>
+	</p>
+	<p align="center">
+		<a href="https://codepen.io/leialoha">
+			<img alt="Codepen Badge" src="https://skillicons.dev/icons?i=codepen" />
+		</a>
+		<a href="https://discord.gg/ucQxdr6Kce">
+			<img alt="Discord Badge" src="https://skillicons.dev/icons?i=discord" />
+		</a>
+		<a href="https://github.com/Leialoha">
+			<img alt="Github Badge" src="https://skillicons.dev/icons?i=github" />
+		</a>
+		<a href="https://www.instagram.com/theleialoha/">
+			<img alt="Instagram Badge" src="https://skillicons.dev/icons?i=instagram" />
+		</a>
+		<a href="https://stackoverflow.com/users/20253837/leialoha">
+			<img alt="StackOverflow Badge" src="https://skillicons.dev/icons?i=stackoverflow" />
+		</a>
+		<a href="https://twitter.com/theLeialoha">
+			<img alt="Twitter Badge" src="https://skillicons.dev/icons?i=twitter" />
+		</a>
+	</p>
+</details>
 
-# My Skills / Resources:
-<img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,figma,github,idea,java,js,jquery,mongodb,mysql,nextjs,nodejs,react,regex,vscode&perline=4" />
+<!-- # My Skills / Resources: -->
 
-<table style="overflow:visible;display:inline-block;">
+<!-- <table style="overflow:visible;display:inline-block;">
 	<tr>
 		<th>First time making X</td>
 		<th>Date</td>
@@ -37,10 +67,10 @@ for the Lord is with me.
 		<td>Discord Bot</td>
 		<td>27 May 2018</td>
 	<tr>
-	<!-- <tr>
+	<tr>
 		<td>Electon App</td>
 		<td>18 August 2019</td>
-	<tr> -->
+	<tr>
 	<tr>
 		<td>Electon x React</td>
 		<td>10 August 2022</td>
@@ -49,6 +79,14 @@ for the Lord is with me.
 		<td>Nextjs x React</td>
 		<td>14 August 2022</td>
 	<tr>
-</table>
+</table> -->
 
-*Note, not everything I learnt is listed above. Just my biggest accomplishments.*
+<!-- <p align="center">
+	<img alt="Programming Languages Badge" src="https://skillicons.dev/icons?i=ts,js,nodejs,empty,html,css,empty,java" />
+	<a href="https://discord.com/users/217024555724570624">
+		<img src="https://lanyard.cnrad.dev/api/217024555724570624">
+	</a>
+	<img alt="Socials Badge" src="https://skillicons.dev/icons?i=codepen,discord,github,instagram,stackoverflow,twitter" />
+</p> -->
+
+<!-- *Note, not everything I learnt is listed above. Just my biggest accomplishments.* -->
