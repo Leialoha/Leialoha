@@ -1,3 +1,7 @@
+<img alt="Cover Image" src="https://raw.githubusercontent.com/leialoha/leialoha/master/images/github.png" />
+
+---
+
 <img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
 
 # Hey there, I am Leialoha.
