@@ -1,6 +1,6 @@
-<img alt="Cover Image" src="https://raw.githubusercontent.com/leialoha/leialoha/master/images/github.png" />
+<!-- <img alt="Cover Image" src="https://raw.githubusercontent.com/leialoha/leialoha/master/images/github.png" />
 
----
+--- -->
 
 <img width="180" height="180" align="left" style="float:left;margin: 0 10px 0 0;" alt="Leialoha" src="https://avatars.githubusercontent.com/u/46801087" />
 
@@ -21,19 +21,41 @@
 
 ---
 
+<h3 align="center">My contributions:</h3>
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+		<img alt="github-snake" src="github-snake.svg" />
+	</picture>
+</p>
+
+---
+
+<h3 align="center">What I am currently listening to:</h3>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yeg9kuklzy5shgxlqmu7tde96&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
+</p>
+
+---
+
+<h3 align="center">My statistics of what I've done on Github:</h3>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=leialoha&show_icons=true&theme=transparent&text_color=ffffff&bar_color_cover=true&icon_color=ffffff&border_color=ffffff&title_color=ffffff&hide_title=true&include_all_commits=true&hide_rank=true"/>
+</p>
+
+---
+
 <details>
 	<summary>✨ My Skills:</summary>
 	<p align="center">
 		<img alt="Skills Badge" src="https://skillicons.dev/icons?i=bots,electron,express,mongodb,nextjs,nodejs,react,regex" />
 	</p>
 </details>
+
 <details>
 	<summary>🗞️ My Socials:</summary>
-	<p align="center">
-		<a href="https://discord.com/users/217024555724570624">
-			<img src="https://lanyard.cnrad.dev/api/217024555724570624">
-		</a>
-	</p>
 	<p align="center">
 		<a href="https://codepen.io/leialoha">
 			<img alt="Codepen Badge" src="https://skillicons.dev/icons?i=codepen" />
@@ -55,42 +77,3 @@
 		</a>
 	</p>
 </details>
-
-<!-- # My Skills / Resources: -->
-
-<!-- <table style="overflow:visible;display:inline-block;">
-	<tr>
-		<th>First time making X</td>
-		<th>Date</td>
-	<tr>
-	<tr>
-		<td>Java Program (MC. Mod)</td>
-		<td>13 April 2017</td>
-	<tr>
-	<tr>
-		<td>Discord Bot</td>
-		<td>27 May 2018</td>
-	<tr>
-	<tr>
-		<td>Electon App</td>
-		<td>18 August 2019</td>
-	<tr>
-	<tr>
-		<td>Electon x React</td>
-		<td>10 August 2022</td>
-	<tr>
-	<tr>
-		<td>Nextjs x React</td>
-		<td>14 August 2022</td>
-	<tr>
-</table> -->
-
-<!-- <p align="center">
-	<img alt="Programming Languages Badge" src="https://skillicons.dev/icons?i=ts,js,nodejs,empty,html,css,empty,java" />
-	<a href="https://discord.com/users/217024555724570624">
-		<img src="https://lanyard.cnrad.dev/api/217024555724570624">
-	</a>
-	<img alt="Socials Badge" src="https://skillicons.dev/icons?i=codepen,discord,github,instagram,stackoverflow,twitter" />
-</p> -->
-
-<!-- *Note, not everything I learnt is listed above. Just my biggest accomplishments.* -->
