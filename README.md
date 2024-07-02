@@ -34,7 +34,7 @@
 
 <h3 align="center">What I am currently listening to:</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yeg9kuklzy5shgxlqmu7tde96&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yeg9kuklzy5shgxlqmu7tde96&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
 </p>
 
 ---
